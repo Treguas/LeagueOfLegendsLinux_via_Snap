@@ -9,11 +9,11 @@ Para instalar o jogo League Of Legends no Linux via Snap você precisa ter o sup
 Depois, você pode instalar o jogo League Of Legends no Linux via Snap, fazendo o seguinte:
 
 # Passo 1. Abra um terminal;
-# Passo 2. Instale a versão estável do Wine com o seguinte comando;
+# Passo 2. Instale a versão estável do Wine com o seguinte comando:
 
     sudo snap install wine-platform-runtime
 
-# Passo 3. Se preferir os recursos mais recente, instale a versão instável do Wine com o comando abaixo;
+# Passo 3. Se preferir os recursos mais recente, instale a versão instável do Wine com o comando abaixo:
 
     sudo snap install wine-platform-runtime --edge
 
@@ -25,7 +25,7 @@ Depois, você pode instalar o jogo League Of Legends no Linux via Snap, fazendo 
 
     sudo snap refresh leagueoflegends
 
-# Passo 6. Depois, se for necessário, desinstale o programa, usando o comando abaixo;
+# Passo 6. Depois, se for necessário, desinstale o programa, usando o comando abaixo:
 
     sudo snap remove leagueoflegends
 
