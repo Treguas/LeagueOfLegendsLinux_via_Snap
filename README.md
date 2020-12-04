@@ -34,6 +34,10 @@ Pronto! Agora, você pode iniciar o programa no menu Aplicativos/Dash/Atividades
 No primeiro lançamento, você será solicitado a escolher a região do instalador do jogo e o processo de download será iniciado.
 
 Se tudo correr bem o League Of Legends finalmente aparecerá na sua tela.
-    Vai ser preciso executar dois comandos no terminal: snap refresh --candidate wine-platform-5-staging e snap refresh --candidate wine-platform-runtime (Clique para abrir o jogo e aguarde que logo aparecerá na tela!)
+
+    Vai ser preciso executar dois comandos no terminal: snap refresh --candidate wine-platform-5-staging
+    e 
+     snap refresh --candidate wine-platform-runtime 
+    (Clique para abrir o jogo e aguarde que logo aparecerá na tela!)
 
    
